@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
             intent.putExtra(EXTRA_MESSAGE, message);
             startActivity(intent);
         } else {
-            Toast.makeText(this, "Fill the field", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Fill the field, please", Toast.LENGTH_SHORT).show();
         }
     }
 
