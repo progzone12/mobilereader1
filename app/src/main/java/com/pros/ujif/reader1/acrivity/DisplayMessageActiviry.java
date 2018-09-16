@@ -1,9 +1,11 @@
-package com.pros.ujif.reader1;
+package com.pros.ujif.reader1.acrivity;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
+
+import com.pros.ujif.reader1.R;
 
 public class DisplayMessageActiviry extends AppCompatActivity {
 
